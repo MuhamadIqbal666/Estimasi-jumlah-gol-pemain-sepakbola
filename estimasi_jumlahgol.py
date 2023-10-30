@@ -12,7 +12,7 @@ except FileNotFoundError:
 st.title('Estimasi jumlah gol Pemain bola')
 
 Player_Names = st.text_input('Input Nama Pemain')
-Country = st.text_input('Input Negara Pemain')
+Country = st.text_input('Input Negara Kompetisi Liga')
 League = st.text_input('Input Kompetesi Liga')
 Club = st.text_input('Input Club Pemain')
 Matches_Played = st.number_input('Jumlah Pertandingan yang telah dimainkan', 0)
