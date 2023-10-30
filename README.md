@@ -22,8 +22,8 @@ Aksesibilitas informasi gol secara real-time dan komprehensif untuk para analis 
 Agar lebih mudah bagi para analis dan penggemar sepak bola dalam mencari informasi data historis dan statistik
 
 ### Solution statements
-    - Menyediakan platform yang memungkinkan analisis mendalam terhadap tren dan pola terkait gol dalam berbagai kompetisi sepak bola.
-    - Mengembangkan model machine learning dengan menggunakan metode Regresi Linier.
+- Menyediakan platform yang memungkinkan analisis mendalam terhadap tren dan pola terkait gol dalam berbagai kompetisi sepak bola.
+- Mengembangkan model machine learning dengan menggunakan metode Regresi Linier.
 
 ## Data Understanding
 Menggunakan dataset yang berasal dari kaggle yang berisi informasi mengenai jumlah gol, yang mencakup berbagai variabel yang berkaitan dengan olahraga sepak bola.<br> 
