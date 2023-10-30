@@ -237,5 +237,5 @@ nilai R-squared yang kita dapatkan, yaitu 0.8542726918258634, berarti sekitar 85
 
 ## Deployment
 
-[Estimasi jumlah gol]([https://app-sleep-health-zrvj9hyk72wk6cmzhjnkwr.streamlit.app/](https://estimasi-jumlah-gol-pemain-sepakbola-e3rzzdbujwpbew7hftfmrg.streamlit.app/)https://estimasi-jumlah-gol-pemain-sepakbola-e3rzzdbujwpbew7hftfmrg.streamlit.app/)
-![Alt text](Image14.png)
+[Estimasi jumlah gol](https://estimasi-jumlah-gol-pemain-sepakbola-e3rzzdbujwpbew7hftfmrg.streamlit.app/)
+![Alt text](download6.png)
