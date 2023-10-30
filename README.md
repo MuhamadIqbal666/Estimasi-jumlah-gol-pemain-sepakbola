@@ -234,3 +234,8 @@ r_squared = r2_score(y, y_pred)
 print("Nilai akurasi R-squared (R^2):", r_squared)
 ```
 nilai R-squared yang kita dapatkan, yaitu 0.8542726918258634, berarti sekitar 85.43% variabilitas dalam jumlah gol dapat dijelaskan oleh fitur-fitur yang digunakan dalam model regresi linear. Dengan demikian, semakin mendekati 1 nilai R-squared, semakin baik model regresi linear tersebut dapat menjelaskan variasi data.
+
+## Deployment
+
+[Estimasi jumlah gol]([https://app-sleep-health-zrvj9hyk72wk6cmzhjnkwr.streamlit.app/](https://estimasi-jumlah-gol-pemain-sepakbola-e3rzzdbujwpbew7hftfmrg.streamlit.app/)https://estimasi-jumlah-gol-pemain-sepakbola-e3rzzdbujwpbew7hftfmrg.streamlit.app/)
+![Alt text](Image14.png)
