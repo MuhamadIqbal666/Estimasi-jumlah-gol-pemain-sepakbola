@@ -18,9 +18,7 @@ Club = st.text_input('Input Club Pemain')
 Matches_Played = st.number_input('Jumlah Pertandingan yang telah dimainkan (max : 38)', 0)
 Mins = st.number_input('Jumlah menit bermain (max : 4177)', 0)
 Shots = st.number_input('Jumlah Tembakan (max:208)', 0)
-OnTarget = st.number_input('Jumlah Tembakan yang tepat sasaran', 0)
-Shots_Per_Avg_Match = st.number_input('Jumlah Tembakan per rata-rata pertandingan', 0)
-On_Target_Per_Avg_Match = st.number_input('Jumlah Tembakan yang tepat sasaran per rata-rata pertandingan', 0)
+OnTarget = st.number_input('Jumlah Tembakan yang tepat sasaran (max:208)', 0)
 Year = st.selectbox('Pilih Tahun', ['2016', '2017', '2018', '2019', '2020'])
 
 predict = ''
