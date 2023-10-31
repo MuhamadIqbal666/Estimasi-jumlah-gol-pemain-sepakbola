@@ -25,7 +25,7 @@ predict = ''
 
 if st.button('Estimasi jumlah gol'):
     try:
-        n_features = [[Mins, Matches_Played, Shots, OnTarget, Shots_Per_Avg_Match, On_Target_Per_Avg_Match, int(Year)]]
+        n_features = [[Mins, Matches_Played, Shots, OnTarget, int(Year)]]
         n_features = np.array(n_features)
         predict = model.predict(n_features)
         st.write('Estimasi jumlah gol yang dihasilkan: ', int(predict[0]), 'Gol')
